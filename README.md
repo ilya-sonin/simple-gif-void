@@ -1,5 +1,7 @@
 # Simple GIF Void
 
+[README на русском](README.ru.md)
+
 A lightweight Python tool to remove background colors from GIF files, making them transparent. By default, it removes white backgrounds (`#FFFFFF`), but you can specify any color or multiple colors in HEX or RGB format.
 
 ## Features
