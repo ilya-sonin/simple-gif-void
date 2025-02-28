@@ -74,4 +74,3 @@ jobs:
           files: dist/remove_background
 
       - name: Notify about release
-        run: echo "Release created: ${{ steps.create_release.outputs.upload_url }}"
