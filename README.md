@@ -1,4 +1,4 @@
-# Simple GIF Void
+# CLI Simple GIF Void
 
 [README на русском](README.ru.md)
 
@@ -70,22 +70,6 @@ To verify the functionality:
 ```bash
 pytest tests/ -v
 ```
-
-## CI/CD
-
-This project uses GitHub Actions to:
-- Run tests on every push or pull request to the `main` branch.
-- Build and upload a Linux binary as an artifact if tests pass.
-
-Check the "Actions" tab for workflow runs and artifacts.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Feel free to open issues or submit pull requests with improvements or bug fixes!
 
 ---
 © 2025 ilya-sonin
